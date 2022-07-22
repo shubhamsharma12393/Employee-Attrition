@@ -1,9 +1,15 @@
 # Employee-Attrition
  The project gives an overview of the attrition analysis for a consulting firm and allows you to understand and identify factors that help in retaining employees. 
 Objective: This model predicts the following details:
+
 *Identify the factors influencing attrition
+
 *Predict possible attrition
+
 *Identify possible ways to retain high perform
+
+
+
 
 Steps followed : 
 1.Understand the Problem and Objective
